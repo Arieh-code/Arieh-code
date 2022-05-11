@@ -3,7 +3,7 @@
 
 <h3 align="center"> 
   
-![](https://visitor-badge.laobi.icu/badge?page_id=itay-kar.itay-kar) 
+![](https://visitor-badge.laobi.icu/badge?page_id=Arieh-code.Arieh-code) 
 [![Github](https://img.shields.io/github/followers/Arieh-code?label=Followers&style=social)](https://github.com/Arieh-code) 
 [![GitHub stars](https://img.shields.io/github/stars/Arieh-code?label=Stars&style=social)](https://github.com/Arieh-code)
   
